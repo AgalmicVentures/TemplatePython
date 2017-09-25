@@ -21,7 +21,7 @@
 # SOFTWARE.
 # -*- coding: utf-8 -*-
 #
-# Monkey documentation build configuration file, created by
+# TemplateTODO documentation build configuration file, created by
 # sphinx-quickstart on Sat Oct 10 22:26:26 2015.
 #
 # This file is execfile()d with the current directory set to its
@@ -69,9 +69,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Monkey'
-copyright = '2015, Ian Hutchinson'
-author = 'Ian Hutchinson'
+project = 'TemplateTODO'
+copyright = '2015-2017 Agalmic Ventures LLC'
+author = 'Ian Hutchinson @ Agalmic Ventures LLC'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -223,7 +223,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Monkeydoc'
+htmlhelp_basename = 'TemplateTODOdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -245,7 +245,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'Monkey.tex', 'Monkey Documentation',
+  (master_doc, 'TemplateTODO.tex', 'TemplateTODO Documentation',
    'Ian Hutchinson', 'manual'),
 ]
 
@@ -275,7 +275,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'monkey', 'Monkey Documentation',
+    (master_doc, 'monkey', 'TemplateTODO Documentation',
      [author], 1)
 ]
 
@@ -289,8 +289,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'Monkey', 'Monkey Documentation',
-   author, 'Monkey', 'One line description of project.',
+  (master_doc, 'TemplateTODO', 'TemplateTODO Documentation',
+   author, 'TemplateTODO', 'One line description of project.',
    'Miscellaneous'),
 ]
 
