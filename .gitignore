@@ -59,5 +59,4 @@ target/
 # Other
 nohup.out
 .DS_store
-myenv/
 
